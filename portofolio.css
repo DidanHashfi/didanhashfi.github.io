@@ -1,0 +1,24 @@
+
+
+.jumbotron{
+ padding-top: 100px;
+    background-color: #0099ff ;
+}
+
+#project{
+    padding-top: 10px;
+    padding-bottom: 30px;
+    background-color: #0099ff;
+}
+
+.contact{
+    background-color: #0099ff;
+}
+
+.contact .container .row .col .wa{
+    padding-right: 10px;
+}
+
+section{
+    padding-top: 5rem;
+}
